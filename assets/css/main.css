@@ -2449,6 +2449,10 @@
 			text-align: center;
 			border:1px solid white;
 		}
+			#banner .wrapper {
+				max-width: 100%;
+				height: auto;
+			}
 
 			#banner .inner header {
 				display: inline-block;

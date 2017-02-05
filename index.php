@@ -13,53 +13,42 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
-
-	
 	<body class="index">
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<header id="header" class="alt">
-					<a id="logo"href="index.html"><img src="assets/images/logo/new_logo_horizontal.png"></a>
-					<nav id="nav">
-						<ul>
-							<li class="current"><a href="index.html">Home</a></li>
-							<li><a href="gallery.html">Gallery</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="selection.html">Selection</a></li>
-							<li> <a href="contact.html">Contact</a> </li>
-
-						</ul>
-					</nav>
-				</header>
+			<?php include 'shared/header.php';?>
 
 			<!-- Banner -->
-				<section id="banner">
 
-					<!--
-						".inner" is set up as an inline-block so it automatically expands
-						in both directions to fit whatever's inside it. This means it won't
-						automatically wrap lines, so be sure to use line breaks where
-						appropriate (<br />).
-					-->
-					<div class="inner">
+			<section id="banner">
+				<div id="wrapper" style="padding-bottom: 80px">
+					<img src="assets/images/homebanner.jpg" >
+				</div>
+				<!--
+					".inner" is set up as an inline-block so it automatically expands
+					in both directions to fit whatever's inside it. This means it won't
+					automatically wrap lines, so be sure to use line breaks where
+					appropriate (<br />).
+				-->
+				<div class="inner">
 
-						<header id="switcher">
-							<img id="lux-logo" src="assets/images/logo/logo.png">
-						</header>
-						<h2>Highest quality polyurethane
-						<br />
-						 mouldings and installation </h2>
-						
-						<footer>
-							<ul class="buttons vertical">
-								<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
-							</ul>
-						</footer>
+					<header id="switcher">
+						<img id="lux-logo" src="assets/images/logo/logo.png">
+					</header>
+					<h2>Highest quality polyurethane
+					<br />
+					 mouldings and installation </h2>
+					
+					<footer>
+						<ul class="buttons vertical">
+							<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
+						</ul>
+					</footer>
 
-					</div>
+				</div>
 
-				</section>
+			</section>
 
 			<!-- Main -->
 				<article id="main">
@@ -156,10 +145,7 @@
 
 			<!-- CTA -->	
 			<section id="cta">
-						
-						
-						<h1>CONTACT
-						</h1>
+				<h1>CONTACT</h1>
 				
 					<footer>
 						<ul class="buttons">
@@ -168,25 +154,10 @@
 					</footer>
 
 				</section>
-			
-
-			<!-- Footer -->
-				<footer id="footer">
-
-					<ul class="icons">
-						<li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-						<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-						<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
-						
-					</ul>
-
-					<ul class="copyright">
-						<li>&copy; 2015 Lux Trim. All Rights Reserved.</li><li>Designed by: <a href="www.xlcaliburn.com">Caliburn</a></li>
-					</ul>
-
-				</footer>
 
 		</div>
+
+		<?php include 'shared/footer.php';?>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>

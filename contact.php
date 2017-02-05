@@ -2,7 +2,7 @@
 
 <html>
 	<head>
-		<title>Contact | LUXTRIM</title>
+		<title>Contact | Lux Trim Mouldings and Interior Design | GTA</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -27,20 +27,7 @@
 	<body class="contact">
 		<div id="page-wrapper">
 
-			<!-- Header -->
-			<header id="header" class="alt">
-				<a id="logo"href="index.html"><img src="assets/images/logo/logo_horizontal.png"></a>
-				<nav id="nav">
-					<ul>
-						<li class="current"><a href="index.html">Home</a></li>
-					
-						<li> <a href="gallery.html">Gallery</a></li>
-						<li> <a href="selection.html">Selection</a> </li>
-						<li> <a>Contact</a></li>
-
-					</ul>
-				</nav>
-			</header>
+            <?php include 'shared/header.php';?>
 
 			<!-- Main -->
 			<article id="main" class="contact">
@@ -101,23 +88,8 @@
 				</section>
 			</article>
 
-			<!-- Footer -->
-			<footer id="footer">
-				<ul class="icons">
-					<li><a href="#" class="icon circle fa-twitter"><span class="label">Twitter</span></a></li>
-					<li><a href="#" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
-					<li><a href="#" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
-				</ul>
-
-				<ul class="copyright">
-					<li>&copy; 2015 Lux Trim. All Rights Reserved.</li>
-				</ul>
-
-			</footer>
-
+			<?php include 'shared/footer.php';?>
 		</div>
-
-
 
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
