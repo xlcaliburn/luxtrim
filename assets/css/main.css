@@ -1675,8 +1675,7 @@
 	}
 
 	header.special {
-		margin-bottom: 5em;
-		padding-top: 7em;
+		padding-top: 2em;
 		position: relative;
 		text-align: center;
 	}
@@ -1796,10 +1795,10 @@
 	}
 
 /* Image */
-
 	.image {
 		border: 0;
 		position: relative;
+		max-width: 100%;
 	}
 
 		.image:before {
@@ -2115,6 +2114,10 @@
 		}
 
 /* Wrapper */
+
+	.bold {
+		font-weight: bold;
+	}
 
 	.wrapper {
 		margin-bottom: 5em;
@@ -2585,8 +2588,7 @@
 		/* Section/Article */
 
 			header.special {
-				padding-top: 5.5em;
-				margin-bottom: 4em;
+				padding-top: 3.5em;
 			}
 
 	}

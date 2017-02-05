@@ -36,9 +36,7 @@
                 <article id="main" class="contact">
 
                     <header class="special container">
-                        <span class="icon fa-picture-o"></span>
                         <h1>Gallery</h1>
-                       
                     </header>
 
                     <!-- One -->

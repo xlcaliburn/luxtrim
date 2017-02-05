@@ -32,23 +32,28 @@
 			<!-- Main -->
 			<article id="main" class="contact">
 				<header class="special container">
-					<span class="icon fa-envelope"></span>
 					<h1>Contact Us</h1>
-					<!-- <p>Use the form below to give /dev/null a piece of your mind.</p> -->
 				</header>
 
 				<!-- One -->
 				<section class="wrapper style4 special container 75%">
-
 					<div class="contact">
 						<h3>
-							Lux Trim<br>
-							Improve Canada, Unit #36<br>
-							7250 Keele St, Vaughan, ON L4K 1Z8<br>
+							<span class="bold">Lux Trim Moulding and Design</span><br>
+							Improve Canada<br>
+							Unit #16-18<br>
+							7250 Keele St.<br>
+							Vaughan, ON L4K 1Z8<br>
+						</h3>
+
+						<h3>
+							<span class="bold">Book your free consultation</span><br>
 							info@luxtrim.com<br>
 							(416) 277-7659<br>
 						</h3>
 					</div>
+					<a href="http://www.improvecanada.com"><img src="assets/images/improve.png"></a>
+
 
 					<div class="map-holder">
 						<div id="map_canvas" class="map-canvas" style="height: 360px;"></div>

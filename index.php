@@ -146,7 +146,7 @@
 			<!-- CTA -->	
 			<section id="cta">
 				<h1>CONTACT</h1>
-				
+					<h3>We service GTA locations including Toronto, Brampton, Vaughan, Mississauga etc. Contact us for free design consultation.</h3>
 					<footer>
 						<ul class="buttons">
 							<li><a href="contact.html" class="button">Get In Touch</a></li>
