@@ -31,7 +31,7 @@
 
 			<!-- Main -->
 			<article id="main" class="contact">
-				<header class="special container">
+				<header class="pages container">
 					<h1>Contact Us</h1>
 				</header>
 

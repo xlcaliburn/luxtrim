@@ -32,13 +32,13 @@
             <?php include 'shared/header.php';?>
             <!-- Main -->
             <article id="main" class="contact">
-                <header class="special container">
+                <header class="pages container">
                     <h1>Our Mission</h1>
                 </header>
                 <!-- One -->
                 <section class="wrapper style4 special container 75%">
                     <h3>Our Mission is to revolutionize moulding design and installation by fixing traditional pain points experienced by clients</h3>
-                    <br>
+                    <br><hr><br>
                     <h3>1. Use the best, most customizable materials.</h3>
                     <p>After researching different materials around the world, we found one that we can call “perfect”. Learn more about our High Density Polyurethane material (link to Our Material)
                     </p>
