@@ -36,14 +36,12 @@
 					<header id="switcher">
 						<img id="lux-logo" src="assets/images/logo/logo.png">
 					</header>
-					<h2>Highest quality polyurethane
-					<br />
-					 mouldings and installation </h2>
+					<h3>Lux Trim is committed to furnishing your home with custom mouldings <br>
+					 and decor to perfectly match your style. We pride ourselves in offering <br>
+					  top quality materials, tailored design, and the cleanest and most efficient service you’ll find. </h3>
 					
-					<footer>
-						<ul class="buttons vertical">
-							<li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
-						</ul>
+					<footer style="max-width:50px; margin:0 auto; display: table">
+						<a href="about.php" class="button fit scrolly">Our Mission</a>
 					</footer>
 
 				</div>
@@ -54,7 +52,6 @@
 				<article id="main">
 
 					<header class="special container">
-						<span class="icon fa-info"></span>
 						<h2><strong>Lux Trim</strong> is a company dedicated to providing the highest quality polyurethane mouldings and installation.
 						</h2>
 						<br>
@@ -65,16 +62,14 @@
 
 					<!-- One -->
 						<section class="wrapper style2 container special-alt">
-							<div class="row 50%">
 								<div>
 									<h1>BEAUTIFUL DESIGNS</h1>
 									<footer>
 										<ul class="buttons">
-											<li><a href="gallery.html" class="button">View Gallery</a></li>
+											<li><a href="gallery.php" class="button">View Gallery</a></li>
 										</ul>
 									</footer>
 								</div>
-							</div>
 						</section>			
 
 					<!-- Two -->
@@ -85,7 +80,7 @@
 							<div class="row">
 								<div class="4u 12u(narrower)">
 
-									<section>
+									<section class="center">
 										<span class="icon featured fa-check"></span>
 
 										<p>Lasts longer than wood or MDF moulds.</p>
@@ -94,7 +89,7 @@
 								</div>
 								<div class="4u 12u(narrower)">
 
-									<section>
+									<section class="center">
 										<span class="icon featured fa-check"></span>
 
 										<p>Resistant to moisture, insects, and vermin.</p>
@@ -103,7 +98,7 @@
 								</div>
 								<div class="4u 12u(narrower)">
 
-									<section>
+									<section class="center">
 										<span class="icon featured fa-check"></span>
 
 										<p>No excessive expansion or contraction due to heat or cold; no warping; no splitting.</p>
@@ -114,7 +109,7 @@
 							<div class="row">
 								<div class="4u 12u(narrower)">
 
-									<section>
+									<section class="center">
 										<span class="icon featured fa-check"></span>
 
 										<p>Lightweight yet durable.</p>
@@ -122,15 +117,13 @@
 
 								</div>
 								<div class="4u 12u(narrower)">
-
-									<section>
+									<section class="center">
 										<span class="icon featured fa-check"></span>
 										<p>Strong resilience to bending and curvature.</p>
 									</section>
 								</div>
 								<div class="4u 12u(narrower)">
-
-									<section>
+									<section class="center">
 										<span class="icon featured fa-check"></span>
 
 										<p>Easy to cut and easy to install.</p>
@@ -149,7 +142,7 @@
 					<h3>We service GTA locations including Toronto, Brampton, Vaughan, Mississauga etc. Contact us for free design consultation.</h3>
 					<footer>
 						<ul class="buttons">
-							<li><a href="contact.html" class="button">Get In Touch</a></li>
+							<li><a href="contact.php" class="button">Get In Touch</a></li>
 						</ul>
 					</footer>
 
