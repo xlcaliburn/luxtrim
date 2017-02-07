@@ -1601,7 +1601,7 @@
 		}
 
 	#logo img {
-		width:250px;
+		max-height:70px;
 	}
 
 	strong, b {
@@ -1732,6 +1732,10 @@
 
 	footer.major {
 		padding-top: 3em;
+	}
+
+	img {
+		max-width: 100%;
 	}
 
 /* Form */
@@ -2312,7 +2316,7 @@
 			animation: none;
 			background: transparent;
 			box-shadow: none;
-			color: #fff;
+			color: #050525;
 			padding: 2em 2.5em;
 			position: absolute;
 		}
@@ -2427,8 +2431,8 @@
 
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
-		background-color: #050525;
-		background-image: url(../images/ceiling3.png) ;
+		/*background-color: #050525;*/
+		/*background-image: url(../images/ceiling3.png) ;*/
 		background-position: center;
 		/*background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;*/

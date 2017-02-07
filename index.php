@@ -19,11 +19,11 @@
 			<!-- Header -->
 			<?php include 'shared/header.php';?>
 
-			<!-- Banner -->
+			<!-- 1nner -->
 
 			<section id="banner">
-				<div id="wrapper" style="padding-bottom: 80px">
-					<img src="assets/images/homebanner.jpg" >
+				<div id="home-banner wrapper" style="padding-bottom: 80px; max-width:100%;">
+					<img style="width:100%;" src="assets/images/homebanner.jpg" >
 				</div>
 				<!--
 					".inner" is set up as an inline-block so it automatically expands
@@ -139,7 +139,7 @@
 			<!-- CTA -->	
 			<section id="cta">
 				<h1>CONTACT</h1>
-					<h3>We service GTA locations including Toronto, Brampton, Vaughan, Mississauga etc. Contact us for free design consultation.</h3>
+					<h3>We service GTA locations including Toronto, Brampton, Vaughan, Mississauga etc. Contact us for free design consultation.</h3><br>
 					<footer>
 						<ul class="buttons">
 							<li><a href="contact.php" class="button">Get In Touch</a></li>
