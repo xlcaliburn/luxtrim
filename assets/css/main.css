@@ -95,7 +95,7 @@
 	}
 
 
-
+-
 
 	@media screen and (max-width: 1680px) {
 
@@ -1616,7 +1616,7 @@
 		color: inherit;
 		font-weight: 300;
 		line-height: 1.75em;
-		margin-bottom: 1em;
+		margin-bottom: 0.5em;
 		/*text-transform: uppercase;*/
 	}
 
@@ -1627,16 +1627,16 @@
 		}
 
 	h1 {
-		font-size:1.85em;
+		font-size:3em;
 	}	
 
 	h2 {
-		font-size: 1.5em;
+		font-size: 2em;
 		letter-spacing: 0.1em;
 	}
 
 	h3 {
-		font-size: 1.15em;
+		font-size: 1.5em;
 		letter-spacing: 0.025em;
 	}
 
@@ -2127,8 +2127,7 @@
 	}
 
 	.wrapper {
-		margin-bottom: 5em;
-		padding: 5em;
+		padding: 3.5em;
 	}
 
 		.wrapper.style1 {
@@ -2220,7 +2219,7 @@
 		cursor: default;
 		font-size: 0.8em;
 		left: 0;
-		padding: 1em 1.5em;
+		padding: 1em 1.5em 0;
 		position: fixed;
 		top: 0;
 		width: 100%;
@@ -2317,7 +2316,7 @@
 			background: transparent;
 			box-shadow: none;
 			color: #050525;
-			padding: 2em 2.5em;
+			padding: 1.5em 2.5em;
 			position: absolute;
 		}
 
@@ -2439,7 +2438,7 @@
 		background-size: cover;
 		color: #fff;
 		cursor: default;
-		padding: 6em 0;
+		padding-top: 6em;
 		text-align: center;
 	}
 
@@ -2514,10 +2513,6 @@
 		background-size: 25em;
 	}
 
-		#main > :last-child {
-			margin-bottom: 0;
-		}
-
 		#main .sidebar section {
 			border-top: solid 1px rgba(124, 128, 129, 0.2);
 			margin: 3em 0 0 0;
@@ -2529,10 +2524,6 @@
 				padding-top: 0;
 				margin-top: 0;
 			}
-
-	body.index #main {
-		padding-top: 5em;
-	}
 
 /* CTA */
 
@@ -2551,11 +2542,15 @@
 		}
 
 /* Footer */
+	.filled-box {
+		background-color: #050525;
+		color: white;
+	}
 
 	#footer {
-		background: #E8EEF4;
+		background: #050525;
 		font-family: 'Lato', sans-serif;
-		color: #7c8081;
+		color: white;
 		padding: 2em 1em 2em 1em;
 		text-align: center;
 	}
@@ -3042,7 +3037,7 @@
 			}
 
 			h2 {
-				font-size: 1.25em;
+				font-size: 1.5em;
 				letter-spacing: 0.1em;
 			}
 
