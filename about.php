@@ -16,29 +16,18 @@
         <link rel="stylesheet" type="text/css" href="assets/css/gallery.css" />
         <script src="assets/js/modernizr.custom.js"></script>
     </head>
-    <style>
-        #main {
-        background-image: url(assets/images/ceiling3.png);
-        background-size: cover;
-        background-position: center;
-        /*background-color: rgba(3,18,47, 1)*/
-        }
-        .contact header {
-        color:#fff;
-        }
-    </style>
     <body class="contact">
         <div id="page-wrapper">
             <?php include 'shared/header.php';?>
+            <div style="height:6em"></div>
+            <div style="height:2em; background-color:#f5efdf"></div>
             <!-- Main -->
             <article id="main" class="contact">
-                <header class="pages container">
-                    <h1>Our Mission</h1>
-                </header>
-                <!-- One -->
-                <section class="wrapper style4 special container 75%">
-                    <h3>Our Mission is to revolutionize moulding design and installation by fixing traditional pain points experienced by clients</h3>
-                    <br><hr><br>
+                <section class="wrapper style4 special container 100%">
+                    <h1>OUR MISSION</h1>
+                    <h3>Our Mission is to revolutionize moulding design and <br>installation by fixing traditional pain points experienced by clients</h3>
+                    <br><br>
+                    <section style="text-align:left" class="container 75%">
                     <h3>1. Use the best, most customizable materials.</h3>
                     <p>After researching different materials around the world, we found one that we can call “perfect”. Learn more about our High Density Polyurethane material (link to Our Material)
                     </p>
@@ -50,6 +39,7 @@
                     </h3>
                     <p>  We want our clients to be 100% confident before we even start. We’ll come to your house and outline detailed, personalized changes; worth thousands of dollars - free of charge. (Applies to nearby clients in the GTA). Book your free consultation
                     </p>
+                </div>
                 </section>
             </article>
             <?php include 'shared/footer.php';?>
