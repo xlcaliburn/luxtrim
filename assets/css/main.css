@@ -1959,6 +1959,7 @@
 
 	ul.icons {
 		cursor: default;
+		margin-bottom: 1em;
 	}
 
 		ul.icons li {
@@ -2551,7 +2552,7 @@
 		background: #050525;
 		font-family: 'Lato', sans-serif;
 		color: white;
-		padding: 2em 1em 2em 1em;
+		padding: 2em 1em 1.5em 1em;
 		text-align: center;
 	}
 
