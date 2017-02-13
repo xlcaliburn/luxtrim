@@ -14,30 +14,16 @@
         <link rel="stylesheet" type="text/css" href="assets/css/gallery.css" />
         <script src="assets/js/modernizr.custom.js"></script>
     </head>
-
-    <style>
-
-    #main {
-        background-image: url(assets/images/ceiling3-1.jpg);
-        background-size: cover;
-        background-position: center;
-        /*background-color: rgba(3,18,47, 1)*/
-    }
-
-    .contact header {
-        color:#fff;
-    }
-    </style>
     <body class="contact">
         <div id="page-wrapper">
             <?php include 'shared/header.php';?>
-
+            <div style="height:6em"></div>
+            <div style="height:2em; background-color:#f5efdf"></div>
             <!-- Main -->
-                <article id="main" class="contact">
-
-                    <header class="pages container">
-                        <h1>Gallery</h1>
-                    </header>
+            <article id="main" class="contact">
+                <section class="wrapper style4 special container 100%">
+                    <h1>GALLERY</h1>
+                </section>
 
                     <!-- One -->
 
@@ -90,9 +76,9 @@
                                 <img src="assets/gallery/thumb/h5.jpg" alt="img03"/>
                             </figure>
                         </li>
-                      
-                      
-                    
+
+
+
                        <li>
                             <figure>
                                 <img src="assets/gallery/thumb/h6.jpg" alt="img04"/>
@@ -173,7 +159,7 @@
                                 <img src="assets/gallery/large/h2.jpg" alt="img01"/>
                             </figure>
                         </li>
-                        
+
                     </ul>
                     <nav>
                         <span class="icon nav-prev"></span>
@@ -183,7 +169,7 @@
                     <div class="info-keys icon">Navigate with arrow keys</div>
                 </section><!-- // slideshow -->
             </div><!-- // grid-gallery -->
-                        
+
                 </article>
 
             <?php include 'shared/footer.php';?>

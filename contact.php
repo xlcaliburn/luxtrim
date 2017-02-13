@@ -10,51 +10,30 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 	</head>
-
-	<style>
-
-	#main {
-		background-image: url(assets/images/ceiling3-1.jpg);
-		background-size: cover;
-		background-position: center;
-		/*background-color: rgba(3,18,47, 1)*/
-	}
-
-	.contact header {
-		color:#fff;
-	}
-	</style>
 	<body class="contact">
 		<div id="page-wrapper">
 
             <?php include 'shared/header.php';?>
-
-			<!-- Main -->
-			<article id="main" class="contact">
-				<header class="pages container">
-					<h1>Contact Us</h1>
-				</header>
-
-				<!-- One -->
-				<section class="wrapper style4 special container 75%">
-					<div class="contact">
+			<div style="height:6em"></div>
+            <div style="height:2em; background-color:#f5efdf"></div>
+            <!-- Main -->
+            <article id="main" class="contact">
+                <section class="wrapper style4 special container 100%">
+                    <h1>CONTACT</h1>
 						<h3>
-							<span class="bold">Lux Trim Moulding and Design</span><br>
-							Improve Canada<br>
+							<span class="bold">Lux Trim</span><br>
+							info@luxtrim.com<br>
+							T:(416)277-7659<br>
+							F:(905)915-0466)
+
+						</h3>
+
+						<h3>
+							<span class="bold">Improve Canada</span><br>
 							Unit #16-18<br>
 							7250 Keele St.<br>
-							Vaughan, ON L4K 1Z8<br>
+							Vaughan, ON L4K 1Z8
 						</h3>
-
-						<h3>
-							<span class="bold">Book your free consultation</span><br>
-							info@luxtrim.com<br>
-							(416) 277-7659<br>
-						</h3>
-					</div>
-					<a href="http://www.improvecanada.com"><img src="assets/images/improve.png"></a>
-
-
 					<div class="map-holder">
 						<div id="map_canvas" class="map-canvas" style="height: 360px;"></div>
 					</div>
@@ -92,7 +71,11 @@
 					</div>
 				</section>
 			</article>
-
+            <div style="height:10em; background-color:#f5efdf">
+				<div class="container">
+					<h3>E-MAIL US TO BOOK YOUR FREE DESIGN CONSULTATION</h3>
+				</div>
+			</div>
 			<?php include 'shared/footer.php';?>
 		</div>
 
@@ -110,13 +93,13 @@
 	<!-- Google Map -->
 	<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
 	<script src="js/jquery.gmap3.min.js"></script>
-	
+
 	<!-- Google Map Init-->
 	<script type="text/javascript">
 		jQuery(function($){
 			$('#map_canvas').gmap3({
 				marker:{
-					address: '43.7888469,-79.4966593' 
+					address: '43.7888469,-79.4966593'
 				},
 					map:{
 					options:{
@@ -127,7 +110,7 @@
 				}
 			});
 		});
-	</script>  
+	</script>
 
 	</body>
 </html>
