@@ -6,15 +6,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
         <link rel="stylesheet" href="assets/css/main.css" />
-        <!--[if lte IE 8]>
-        <link rel="stylesheet" href="assets/css/ie8.css" />
-        <![endif]-->
-        <!--[if lte IE 9]>
-        <link rel="stylesheet" href="assets/css/ie9.css" />
-        <![endif]-->
-        <link rel="stylesheet" type="text/css" href="assets/css/demo.css" />
-        <link rel="stylesheet" type="text/css" href="assets/css/gallery.css" />
-        <script src="assets/js/modernizr.custom.js"></script>
+        <style>
+            .image-points {
+                vertical-align: middle;
+            }
+        </style>
     </head>
     <body class="contact">
         <div id="page-wrapper">
@@ -27,21 +23,10 @@
                     <h1>OUR MISSION</h1>
                     <h3>Our Mission is to revolutionize moulding design and <br>installation by fixing traditional pain points experienced by clients</h3>
                     <br><br>
-                    <section style="text-align:left" class="container 75%">
-                        <div width=15% style="display:inline-block">
-                            <img src="assets/images/1.png">
-                        </div>
-                        <div width=80% style="display:inline-block">
-                            <h3>Use the best, most customizable materials.</h3>
-                            <p>After researching different materials around the world, we found one that we can call “perfect”.
-                                Learn more about our <a href="polyurethane-moulding-material.php">High Density Polyurethane material</a>
-                            </p>
-                        </div>
+                    <section style="text-align:left;width:75%" class="container">
                         <table>
                             <tr>
-                                <td width=15%>
-                                    <img src="assets/images/1.png">
-                                </td>
+                                <td width=15%><img src="assets/images/1.png" width="80px" class="image-points"></td>
                                 <td>
                                     <h3>Use the best, most customizable materials.</h3>
                                     <p>After researching different materials around the world, we found one that we can call “perfect”.
@@ -50,7 +35,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td width=15%><img src="assets/images/2.png" width="80px"></td>
+                                <td width=15%><img src="assets/images/2.png" width="80px" class="image-points"></td>
                                 <td>
                                     <h3>Provide the most efficient service.</h3>
                                     <p>
@@ -59,7 +44,7 @@
                                 </td>
                             </tr>
                             <tr>
-                                <td width=15%><img src="assets/images/3.png" width="80px"></td>
+                                <td width=15%><img src="assets/images/3.png" width="80px" class="image-points"></td>
                                 <td>
                                     <h3>Free design consultation.</h3>
                                     <p>
@@ -69,9 +54,11 @@
                                 </td>
                             </tr>
                         </table>
-                </div>
                 </section>
             </article>
+            <div style="background-color:#f5efdf; text-align:center;">
+                <img src="assets/gallery/large/2.jpg" style="max-width:50%;padding-top:10px">
+            </div>
             <?php include 'shared/footer.php';?>
         </div>
         <!-- Scripts -->

@@ -2221,10 +2221,7 @@ input[type="reset"].small,
 /* Main */
 
 #main {
-    background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
-    background-position: top left, top right, bottom left, bottom right;
-    background-repeat: no-repeat;
-    background-size: 25em;
+
 }
 #main .sidebar section {
     border-top: solid 1px rgba(124, 128, 129, 0.2);
@@ -5102,10 +5099,7 @@ input[type="reset"].small,
 /* Main */
 
 #main {
-    background-image: url("images/dark-tl.svg"), url("images/dark-tr.svg"), url("images/dark-bl.svg"), url("images/dark-br.svg");
-    background-position: top left, top right, bottom left, bottom right;
-    background-repeat: no-repeat;
-    background-size: 25em;
+
 }
 #main .sidebar section {
     border-top: solid 1px rgba(124, 128, 129, 0.2);

@@ -19,17 +19,16 @@
             <!-- Main -->
             <article id="main" class="contact">
                 <section class="wrapper style4 special container 100%">
-                    <h1>CONTACT</h1>
-						<h3>
-							<span class="bold">Lux Trim</span><br>
+                    <h1>CONTACT US</h1>
+						<h3 style="text-align:left;width:40%;display:inline-block">
+							Lux Trim<br>
 							info@luxtrim.com<br>
 							T:(416)277-7659<br>
 							F:(905)915-0466)
-
 						</h3>
 
-						<h3>
-							<span class="bold">Improve Canada</span><br>
+						<h3 style="text-align:right;width:40%;display:inline-block">
+							<span class="bold" style="color:#dcc484">Improve Canada</span><br>
 							Unit #16-18<br>
 							7250 Keele St.<br>
 							Vaughan, ON L4K 1Z8
@@ -71,8 +70,9 @@
 					</div>
 				</section>
 			</article>
-            <div style="height:10em; background-color:#f5efdf">
+            <div style="height:10em; background-color:#f5efdf; text-align:center;padding:5px">
 				<div class="container">
+					<img src="assets/images/envelope.png" height="120px">
 					<h3>E-MAIL US TO BOOK YOUR FREE DESIGN CONSULTATION</h3>
 				</div>
 			</div>
