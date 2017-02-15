@@ -15,6 +15,9 @@
 .wrapper {
     padding: 3.5em;
 }
+.image-points {
+    vertical-align: middle;
+}
 
 /* Basic */
 body {
