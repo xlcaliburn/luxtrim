@@ -455,7 +455,6 @@ input[type="reset"],
     -ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
     background: none;
-    border: solid 1px;
     color: inherit;
     cursor: pointer;
     display: inline-block;

@@ -21,8 +21,8 @@
                 <img style="width:100%;" src="assets/images/homebanner.jpg">
             </div>
         </section>
-        <article id="main" style="">
-            <div class="special container wrapper center">
+        <article id="main">
+            <div class="container center" style="margin-bottom:1.5em">
                 <h1>BEAUTIFY YOUR HOME!</h1>
                 <h3><strong>Lux Trim</strong> is committed to furnishing your home with custom <br>
                     mouldings and decor to perfectly match your style. We pride<br>
@@ -48,28 +48,34 @@
                     </div>
                 </section>
             </div>
-            <header class="special container wrapper">
-                <div style="display:inline-block; width:49%; text-align:left">
-                    <h3>NEWSLETTER SIGNUP</h3>
-                    <input type="text" name="FirstName" value="Email Address">
-                    <br>
-                    <footer class="filled-box" style="max-width:30px; margin:0 auto; display: table; float:left">
-                        <a href="about.php" class="button fit scrolly">SUBSCRIBE</a>
-                    </footer>
 
-                </div>
-                <div style="display:inline-block; width:50%">
-                    <h3>CONTACT</h3>
-                    <p>We service GTA locations
-                        <br> including Toronto, Brampton,
-                        <br> Vaughan, Mississauga etc</p>
-                    <footer class="filled-box" style="max-width:30px; margin:0 auto; display: table;">
-                        <a href="contact.php" class="button fit scrolly">GET IN TOUCH</a>
-                    </footer>
-                </div>
+            <header class="special container wrapper">
+                <table>
+                    <tr>
+                        <td width="50%">
+                            <div style="text-align:left">
+                                <h3>NEWSLETTER SIGNUP</h3>
+                                <input type="text" name="FirstName" value="Email Address">
+                                <br>
+                                <div class="filled-box" style="max-width:300px;margin-top:18px;">
+                                    <a href="about.php" class="button fit scrolly">SUBSCRIBE</a>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <h3>CONTACT</h3>
+                            <p>We service GTA locations including Toronto,
+                                <br>Brampton, Vaughan, Mississauga, etc.</p>
+                            <div class="filled-box center" style="max-width:300px;">
+                                <a href="contact.php" class="button">GET IN TOUCH</a>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
             </header>
         </article>
     </div>
     <?php include 'shared/footer.php';?>
 </body>
+
 </html>
