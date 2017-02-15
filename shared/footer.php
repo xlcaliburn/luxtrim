@@ -1,6 +1,6 @@
 <!-- Footer -->
 <footer id="footer">
-	<ul class="icons">
+	<ul class="icons" style="padding:0">
 		<li><a href="https://www.facebook.com/LuxTrim/" class="icon circle fa-facebook"><span class="label">Facebook</span></a></li>
 		<li><a href="https://plus.google.com/b/102898757783711865615/102898757783711865615" class="icon circle fa-google-plus"><span class="label">Google+</span></a></li>
 	</ul>

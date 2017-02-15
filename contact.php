@@ -17,7 +17,8 @@
 			<div style="height:6em"></div>
             <!-- Main -->
             <article id="main" class="contact">
-                <section class="wrapper style4 special container 100%">
+                <section class="wrapper style4 container">
+					<div style="max-width:75%" class="center">
                     <h1>CONTACT US</h1>
 						<h3 style="text-align:left;width:40%;display:inline-block">
 							Lux Trim<br>
@@ -32,46 +33,33 @@
 							7250 Keele St.<br>
 							Vaughan, ON L4K 1Z8
 						</h3>
+					</div>
 					<div class="map-holder">
 						<div id="map_canvas" class="map-canvas" style="height: 360px;"></div>
 					</div>
 					<div style="height:50px"></div>
 
 					<!-- Content -->
-					<div class="content">
+					<div class="content center" style="max-width:50%">
 						<form name="contactform" method="post" action="send_form_email.php">
-							<div class="row 50%">
-								<div class="6u 12u(mobile)">
-									<input type="text" name="name" placeholder="*Name" />
-								</div>
-								<div class="6u 12u(mobile)">
-									<input type="text" name="email" placeholder="*Email" />
-								</div>
-							</div>
-							<div class="row 50%">
-								<div class="12u">
-									<input type="text" name="phone" placeholder="Phone" />
-								</div>
-							</div>
-							<div class="row 50%">
-								<div class="12u">
-									<textarea name="message" placeholder="*Message" rows="7"></textarea>
-								</div>
-							</div>
+							<table>
+								<tr><td><input type="text" name="name" placeholder="*Name" /></td></tr>
+								<tr><td><input type="text" name="email" placeholder="*Email" /></td></tr>
+								<tr><td><input type="text" name="phone" placeholder="Phone" /></td></tr>
+								<tr><tr><td><textarea name="message" placeholder="*Message" rows="7"></textarea></td></tr>
+							</table>
 							<div class="row">
-								<div class="12u">
-									<ul class="buttons">
-										<li><input type="submit" class="special" value="Send Message" /></li>
-									</ul>
-								</div>
+								<ul class="buttons" style="padding:0">
+									<li><input type="submit" class="special" value="Send Message" /></li>
+								</ul>
 							</div>
 						</form>
 					</div>
 				</section>
 			</article>
-            <div style="height:10em; background-color:#f5efdf; text-align:center;padding:5px">
-				<div class="container">
-					<img src="assets/images/envelope.png" height="120px">
+            <div style="height:10em; background-color:#f5efdf; text-align:center;padding:5px;margin-top:1.5em">
+				<div class="container center">
+					<img src="assets/images/envelope.png" align="center" height="120px">
 					<h3>E-MAIL US TO BOOK YOUR FREE DESIGN CONSULTATION</h3>
 				</div>
 			</div>
@@ -80,12 +68,6 @@
 
 	<!-- Scripts -->
 	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/jquery.dropotron.min.js"></script>
-	<script src="assets/js/jquery.scrolly.min.js"></script>
-	<script src="assets/js/jquery.scrollgress.min.js"></script>
-	<script src="assets/js/skel.min.js"></script>
-	<script src="assets/js/util.js"></script>
-	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 	<script src="js/vendor/jquery-1.10.1.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
 
@@ -110,6 +92,5 @@
 			});
 		});
 	</script>
-
 	</body>
 </html>

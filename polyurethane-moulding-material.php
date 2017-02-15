@@ -20,13 +20,12 @@
             <div style="height:6em"></div>
             <!-- Main -->
             <article id="main" class="contact">
-                <section class="wrapper style4 special container 100%">
+                <section style="width:75%" class="container center">
                     <h1>OUR MATERIAL</h1>
                         <h4>We spent months travelling and testing in search of the best material for our moldings. After experimenting with different woods, plaster, MDF
                         and more, we discovered that High Density Polyurethane (PU) outperforms conventional materials on many metrics.</h4>
                         <br><hr><br>
                         <h3><span class="bold">Why Choose Our Polyurethane Mouldings?</span></h3>
-
 
                         <img src="assets/images/infographic.png" class="image">
 
@@ -50,19 +49,6 @@
                 </article>
 
         <?php include 'shared/footer.php';?>
-
         </div>
-
-        <!-- Scripts -->
-            <script src="assets/js/jquery.min.js"></script>
-            <script src="assets/js/jquery.dropotron.min.js"></script>
-            <script src="assets/js/jquery.scrolly.min.js"></script>
-            <script src="assets/js/jquery.scrollgress.min.js"></script>
-            <script src="assets/js/skel.min.js"></script>
-            <script src="assets/js/util.js"></script>
-            <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-            <script src="assets/js/main.js"></script>
-
-
     </body>
 </html>
