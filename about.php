@@ -21,8 +21,8 @@
                 <section class="wrapper style4 special container 100%">
                     <h1>OUR MISSION</h1>
                     <h3>Our Mission is to revolutionize moulding design and <br>installation by fixing traditional pain points experienced by clients</h3>
-                    <br><br>
-                    <section style="text-align:left;width:75%" class="container">
+                    <br>
+                    <section style="text-align:left;width:75%" class="container center">
                         <table>
                             <tr>
                                 <td width=15%><img src="assets/images/1.png" width="80px" class="image-points"></td>
@@ -60,8 +60,5 @@
             </div>
             <?php include 'shared/footer.php';?>
         </div>
-        <!-- Scripts -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/main.js"></script>
     </body>
 </html>
