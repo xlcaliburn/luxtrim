@@ -16,7 +16,6 @@
         <div id="page-wrapper">
             <?php include 'shared/header.php';?>
             <div style="height:6em"></div>
-            <div style="height:2em; background-color:#f5efdf"></div>
             <!-- Main -->
             <article id="main" class="contact">
                 <section class="wrapper style4 special container 100%">
@@ -63,12 +62,6 @@
         </div>
         <!-- Scripts -->
         <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/jquery.dropotron.min.js"></script>
-        <script src="assets/js/jquery.scrolly.min.js"></script>
-        <script src="assets/js/jquery.scrollgress.min.js"></script>
-        <script src="assets/js/skel.min.js"></script>
-        <script src="assets/js/util.js"></script>
-        <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
         <script src="assets/js/main.js"></script>
     </body>
 </html>

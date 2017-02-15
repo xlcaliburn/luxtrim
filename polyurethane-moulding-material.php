@@ -18,7 +18,6 @@
         <div id="page-wrapper">
             <?php include 'shared/header.php';?>
             <div style="height:6em"></div>
-            <div style="height:2em; background-color:#f5efdf"></div>
             <!-- Main -->
             <article id="main" class="contact">
                 <section class="wrapper style4 special container 100%">

@@ -10,7 +10,6 @@
         <div id="page-wrapper">
             <?php include 'shared/header.php';?>
             <div style="height:6em"></div>
-            <div style="height:2em; background-color:#f5efdf"></div>
             <!-- Main -->
             <article id="main" class="contact">
                 <section class="wrapper style4 special container 100%">
@@ -22,7 +21,6 @@
                 <img src="assets/gallery/large/2.jpg" style="max-width:50%;padding-top:10px">
             </div>
             <?php include 'shared/footer.php';?>
-
         </div>
     </body>
 </html>
