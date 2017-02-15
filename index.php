@@ -30,18 +30,18 @@
                      and the cleanest and most efficient service you'll find.
                     </h3>
                 <br>
-                <footer class="filled-box" style="max-width:50px; margin:0 auto; display: table">
-                    <a href="about.php" class="button fit scrolly">Our Mission</a>
-                </footer>
+                <div class="filled-box center" style="max-width:300px;">
+                    <a href="about.php" class="button">Our Mission</a>
+                </div>
             </div>
             <!-- One -->
             <div style="padding:1.5em 0em 0.1em; background-color:#f5efdf">
                 <section class="wrapper style2 container special-alt center" style="background-color:black;margin-bottom:5em;">
                     <div>
                         <h2>BEAUTIFUL DESIGNS</h2>
-                        <footer style="max-width:50px; margin:0 auto; display: table">
+                        <div style="max-width:50px; margin:0 auto; display: table">
                             <ul class="buttons">
-                                <li><a href="gallery.php" class="button fit scrolly">View Gallery</a>
+                                <li><a href="gallery.php" class="button fit">View Gallery</a>
                                 </li>
                             </ul>
                         </footer>
