@@ -19,7 +19,7 @@
     vertical-align: middle;
 }
 .buttons {
-    padding:0;
+    padding:0
 }
 
 /* Basic */
@@ -72,7 +72,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: inherit;
+    color: #050525;
     font-weight: 300;
     line-height: 1.75em;
     margin-top:0.5em;
@@ -88,6 +88,9 @@ h6 a {
     color: inherit;
     text-decoration: none;
     border: 0;
+}
+p {
+    color: #050525
 }
 h1 {
     font-size: 3em;
@@ -516,7 +519,7 @@ input[type="reset"].small,
 .wrapper.style2 {
     width: 50%;
     margin-top: 50px;
-    background-image: url("../images/gallerybanner.png");
+    background-image: url("../images/gallerybanner.jpg");
     background-position: center;
     background-repeat: no-repeat, no-repeat;
     background-size: cover;
@@ -775,7 +778,7 @@ input[type="reset"].small,
     background-size: cover;
     color: #fff;
     cursor: default;
-    padding-top: 6em;
+    padding-top: 5em;
     text-align: center;
 }
 #banner .inner {

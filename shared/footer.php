@@ -13,8 +13,8 @@
 		</div>
 		<div style="text-align: right; width:45%; display:inline-block">
 			<ul style="display:inline">
-				<li><a href="#">Privacy Policy</a></li>
-				<li><a href="#">Terms of Use</a></li>
+				<li><a href="privacy-policy.html">Privacy Policy</a></li>
+				<li><a href="terms.html">Terms of Use</a></li>
 				<li><a href="#">Site Map</a></li>
 			</ul>
 		</div>

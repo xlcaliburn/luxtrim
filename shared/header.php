@@ -8,7 +8,7 @@
             <div style="margin-top:-15px">416-277-7659</div>
         </div>
 
-    <nav id="nav">
+    <nav id="nav" style="color:#050525">
         <ul>
             <li class="current"><a href="index.php">Home</a></li>
             <li><a href="about.php">About Us</a></li>

@@ -38,7 +38,7 @@
             <div style="padding:1.5em 0em 0.1em; background-color:#f5efdf">
                 <section class="wrapper style2 container special-alt center" style="background-color:black;margin-bottom:5em;">
                     <div>
-                        <h2>BEAUTIFUL DESIGNS</h2>
+                        <h2 style="color:white">BEAUTIFUL DESIGNS</h2>
                         <div style="max-width:50px; margin:0 auto; display: table">
                             <ul class="buttons">
                                 <li><a href="gallery.php" class="button fit">View Gallery</a>

@@ -55,7 +55,7 @@
             </section>
         </article>
         <div style="background-color:#f5efdf; text-align:center;">
-            <img src="assets/gallery/large/2.jpg" style="max-width:50%;padding-top:10px">
+            <img src="assets/images/aboutbanner.jpg" style="max-width:50%;padding-top:10px">
         </div>
         <?php include 'shared/footer.php';?>
     </div>

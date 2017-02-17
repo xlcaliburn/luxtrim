@@ -49,7 +49,7 @@
 								<tr><tr><td><textarea name="message" placeholder="*Message" rows="7"></textarea></td></tr>
 							</table>
 							<div class="row">
-								<ul class="buttons" style="padding:0">
+								<ul class="buttons">
 									<li><input type="submit" class="special" value="Send Message" /></li>
 								</ul>
 							</div>
