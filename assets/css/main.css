@@ -1,8 +1,8 @@
 @import url("font-awesome.min.css");
 @import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
 @font-face {
-    font-family: usherwood;
-    src: url(../fonts/itc-usherwood-lt-book.ttf);
+    font-family: seravek;
+    src: url(../fonts/seravek/Seravek-Light.otf);
 }
 /*
  Primary: #050525
@@ -32,7 +32,7 @@ input,
 select,
 textarea {
     color: #7c8081;
-    font-family: 'usherwood', sans-serif;
+    font-family: 'seravek', sans-serif;
     font-size: 15pt;
     font-weight: 300;
     letter-spacing: 0.025em;

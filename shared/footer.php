@@ -15,7 +15,7 @@
 			<ul style="display:inline">
 				<li><a href="privacy-policy.html">Privacy Policy</a></li>
 				<li><a href="terms.html">Terms of Use</a></li>
-				<li><a href="#">Site Map</a></li>
+				<li><a href="sitemap.html">Site Map</a></li>
 			</ul>
 		</div>
 	</div>
