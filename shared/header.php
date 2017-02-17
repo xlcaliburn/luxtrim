@@ -1,4 +1,4 @@
-<header id="header" class="alt" style="background-color:#ffffff;position:fixed;">
+<header id="header" class="alt" style="background-color:#ffffff;position:fixed;z-index:0;">
     <div style="padding: 1em 1.5em 0;">
         <a id="logo" href="index.php">
             <img src="assets/images/logo.jpg">

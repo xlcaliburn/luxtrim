@@ -157,7 +157,7 @@
                     <nav>
                         <span class="icon nav-prev"></span>
                         <span class="icon nav-next"></span>
-                        <span class="icon nav-close"></span>
+                        <span class="icon nav-close" style="position:absolute;z-index:2;"></span>
                     </nav>
                     <div class="info-keys icon">Navigate with arrow keys</div>
                 </section>
