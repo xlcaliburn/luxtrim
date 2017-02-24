@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Lux Trim Mouldings and Interior Design | GTA</title>
+    <title>Lux Trim Mouldings and Interior Design | Vaughan</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="google-site-verification" content="0Qt12fv8k59JZWKmGhvPPrMcaxtZ-KPKc4D6gN0Huws" />
@@ -18,7 +18,7 @@
         <!-- 1nner -->
         <section id="banner">
             <div id="home-banner wrapper" style="max-width:100%;">
-                <img style="width:100%;" src="assets/images/homebanner.jpg">
+                <img style="width:100%;" alt="Living room moulding design" title="Living room moulding design" src="assets/images/homebanner.jpg">
             </div>
         </section>
         <article id="main">

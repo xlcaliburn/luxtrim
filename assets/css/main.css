@@ -103,6 +103,9 @@ h3 {
     font-size: 1.5em;
     letter-spacing: 0.025em;
 }
+h4 {
+    font-size: 1.15em;
+}
 sub {
     font-size: 0.8em;
     position: relative;
@@ -127,9 +130,6 @@ header.pages {
 section.special,
 article.special {
     text-align: center;
-}
-header {
-    background-image: url(..images/header.png);
 }
 header.major {
     padding-bottom: 2em;

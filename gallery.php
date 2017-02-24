@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Gallery | Lux Trim Mouldings and Interior Design | GTA</title>
+    <title>Gallery | Lux Trim Mouldings and Interior Design | Vaughan</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="assets/css/main.css" />
@@ -28,63 +28,63 @@
                         <!-- for Masonry column width -->
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/1.jpg" alt="img01" />
+                                <img src="assets/gallery/thumb/1.jpg" alt="Living room moulding design thumbnail" title="Living room moulding design thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/2.jpg" alt="img02" />
+                                <img src="assets/gallery/thumb/2.jpg" alt="Office moulding waffle ceiling thumbnail" title="Office moulding waffle ceiling thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/3.jpg" alt="img03" />
+                                <img src="assets/gallery/thumb/3.jpg" alt="Bedroom moulding design thumbnail" title="Bedroom moulding design thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/4.jpg" alt="img04" />
+                                <img src="assets/gallery/thumb/4.jpg" alt="Office waffle ceiling design  thumbnail" title="Office waffle ceiling design  thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/5.jpg" alt="img05" />
+                                <img src="assets/gallery/thumb/5.jpg" alt="Classic wall panel wallpaper thumbnail" title="Classic wall panel wallpaper thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/6.jpg" alt="img06" />
+                                <img src="assets/gallery/thumb/6.jpg" alt="LED lighting moulding design thumbnail" title="LED lighting moulding design thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/7.jpg" alt="img01" />
+                                <img src="assets/gallery/thumb/7.jpg" alt="Family room moulding design thumbnail" title="Family room moulding design thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/8.jpg" alt="img02" />
+                                <img src="assets/gallery/thumb/8.jpg" alt="Dining room moulding design thumbnail" title="Dining room moulding design thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/9.jpg" alt="img03" />
+                                <img src="assets/gallery/thumb/9.jpg" alt="Classic wall panel wallpaper thumbnail" title="Classic wall panel wallpaper thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/10.jpg" alt="img04" />
+                                <img src="assets/gallery/thumb/10.jpg" alt="Office moulding decor design thumbnail" title="Office moulding decor design thumbnail" />
                             </figure>
                         </li>
 
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/11.jpg" alt="img01" />
+                                <img src="assets/gallery/thumb/11.jpg" alt="Wallpaper moulding thumbnail" title="Wallpaper moulding thumbnail" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/12.jpg" alt="img02" />
+                                <img src="assets/gallery/thumb/12.jpg" alt="Ceiling moulding panel thumbnail" title="Ceiling moulding panel thumbnail" />
                             </figure>
                         </li>
                     </ul>
@@ -94,62 +94,62 @@
                     <ul>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/1.jpg" alt="img01" />
+                                <img src="assets/gallery/large/1.jpg" alt="Living room moulding design" title="Living room moulding design" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/2.jpg" alt="img02" />
+                                <img src="assets/gallery/large/2.jpg" alt="Office moulding waffle ceiling" title="Office moulding waffle ceiling" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/3.jpg" alt="img03" />
+                                <img src="assets/gallery/large/3.jpg" alt="Bedroom moulding design" title="Bedroom moulding design" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/4.jpg" alt="img04" />
+                                <img src="assets/gallery/large/4.jpg" alt="Office waffle ceiling design " title="Office waffle ceiling design " />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/5.jpg" alt="img05" />
+                                <img src="assets/gallery/large/5.jpg" alt="Classic wall panel wallpaper" title="Classic wall panel wallpaper" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/6.jpg" alt="img06" />
+                                <img src="assets/gallery/large/6.jpg" alt="LED lighting moulding design" title="LED lighting moulding design" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/7.jpg" alt="img01" />
+                                <img src="assets/gallery/large/7.jpg" alt="Family room moulding design" title="Family room moulding design" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/8.jpg" alt="img02" />
+                                <img src="assets/gallery/large/8.jpg" alt="Dining room moulding design" title="Dining room moulding design" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/9.jpg" alt="img03" />
+                                <img src="assets/gallery/large/9.jpg" alt="Classic wall panel wallpaper" title="Classic wall panel wallpaper" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/10.jpg" alt="img04" />
+                                <img src="assets/gallery/large/10.jpg" alt="Office moulding decor design" title="Office moulding decor design" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/11.jpg" alt="img05" />
+                                <img src="assets/gallery/large/11.jpg" alt="Wallpaper moulding" title="Wallpaper moulding" />
                             </figure>
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/12.jpg" alt="img01" />
+                                <img src="assets/gallery/large/12.jpg" alt="Ceiling moulding panel" title="Ceiling moulding panel" />
                             </figure>
                         </li>
 

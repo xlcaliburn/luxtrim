@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>Our Material | Lux Trim Mouldings and Interior Design | GTA</title>
+    <title>Our Material | Lux Trim Mouldings and Interior Design | Vaughan</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -33,9 +33,16 @@
                 <h2>Why Choose Our Polyurethane Mouldings?</h3>
                 <h3>
                 <table>
-                    <td width="33%"><img src="assets/images/1.png" width="60px" class="image-points"> Physical Structure</td>
-                    <td width="33%"><img src="assets/images/2.png" width="60px" class="image-points"> Design Capabilities</td>
-                    <td width="33%"><img src="assets/images/3.png" width="60px" class="image-points"> Installation Efficiencies</td>
+                    <tr>
+                        <td width="33%"><img src="assets/images/1.png" width="60px" class="image-points"></td>
+                        <td width="33%"><img src="assets/images/2.png" width="60px" class="image-points"></td>
+                        <td width="33%"><img src="assets/images/3.png" width="60px" class="image-points"></td>
+                    </tr>
+                    <tr>
+                        <td>Physical Structure</td>
+                        <td>Design Capabilities</td>
+                        <td>Installation Efficiencies</td>
+                    </tr>
                 </table>
             </h3>
 

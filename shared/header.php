@@ -1,11 +1,11 @@
-<header id="header" class="alt" style="background-color:#ffffff;position:fixed;z-index:0;">
+<header id="header" class="alt" style="background-color:#ffffff;position:fixed;z-index:1;">
     <div style="padding: 1em 1.5em 0;">
         <a id="logo" href="index.php">
-            <img src="assets/images/logo.jpg">
+            <img src="assets/images/logo2.png">
         </a>
         <div style="display: inline-block;margin: -50px 0 0 10px;vertical-align: middle;">
-            <div>MOULDING AND DECOR</div>
-            <div style="margin-top:-15px">416-277-7659</div>
+            <div><h4>MOULDING AND DECOR</h4></div>
+            <div style="margin-top:-15px"><h4>416-277-7659</h4></div>
         </div>
 
     <nav id="nav" style="color:#050525">
