@@ -1,0 +1,8 @@
+<FilesMatch "\.(ico|css|pdf|jpg|jpeg|png|gif|html|htm|xml|txt|xsl)$">
+Header set Cache-Control "max-age=31536050"
+</FilesMatch>
+<IfModule mod_headers.c>
+  <FilesMatch ".(js|css|xml|gz|html)$">
+    Header append Vary: Accept-Encoding
+  </FilesMatch>
+</IfModule>

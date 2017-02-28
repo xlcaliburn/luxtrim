@@ -24,7 +24,7 @@
 							Lux Trim<br>
 							info@luxtrim.com<br>
 							T:(416)277-7659<br>
-							F:(905)915-0466)
+							F:(905)915-0466
 						</h3>
 
 						<h3 style="text-align:right;width:40%;display:inline-block">

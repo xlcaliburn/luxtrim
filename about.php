@@ -16,7 +16,7 @@
         <article id="main" class="contact">
             <section style="width:75%" class="container center">
                 <h1>OUR MISSION</h1>
-                <h3>Our Mission is to revolutionize moulding design and <br>installation by fixing traditional pain points experienced by clients</h3>
+                <h3>Our Mission is to revolutionize moulding design and <br>installation by fixing traditional problems experienced by clients</h3>
                 <br>
                 <div style="text-align:left">
                     <table>
