@@ -1,4 +1,4 @@
-﻿<!DOCTYPE HTML>
+<!DOCTYPE HTML>
 
 <html>
 
@@ -23,7 +23,7 @@
         <!-- Main -->
         <article id="main" class="contact">
             <section style="width:75%" class="container center">
-                <h1>OUR MATERIaL</h1>
+                <h1>OUR MATERIAL</h1>
                 <h4>We spent months travelling and testing in search of the best material for our mouldings. <br>
                             After experimenting with different woods, plaster, MDF and more, we discovered that<br>
                             High Density Polyurethane (PU) outperforms conventional materials on many metrics.</h4>
