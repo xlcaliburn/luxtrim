@@ -25,7 +25,7 @@
             <div class="container center" style="margin-bottom:1.5em">
                 <h1>BEAUTIFY YOUR HOME!</h1>
                 <h3><strong>Lux Trim</strong> is committed to furnishing your home with custom <br>
-                    mouldings and decor to perfectly match your style. We pride<br>
+                    moulding and decor to perfectly match your style. We pride<br>
                      ourselves in offering top quality materials, tailored design, <br>
                      and the cleanest and most efficient service you'll find.
                     </h3>

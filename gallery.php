@@ -48,7 +48,7 @@
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/thumb/5.jpg" alt="Classic wall panel wallpaper thumbnail" title="Classic wall panel wallpaper thumbnail" />
+                                <img src="assets/gallery/thumb/5.jpg" alt="Neoclassic design thumbnail" title="Neoclassic design thumbnail" />
                             </figure>
                         </li>
                         <li>
@@ -114,7 +114,7 @@
                         </li>
                         <li>
                             <figure>
-                                <img src="assets/gallery/large/5.jpg" alt="Classic wall panel wallpaper" title="Classic wall panel wallpaper" />
+                                <img src="assets/gallery/large/5.jpg" alt="Neoclassic design" title="Neoclassic design" />
                             </figure>
                         </li>
                         <li>
