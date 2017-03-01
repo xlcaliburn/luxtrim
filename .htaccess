@@ -1,3 +1,5 @@
+
+RewriteEngine on
 <FilesMatch "\.(ico|css|pdf|jpg|jpeg|png|gif|html|htm|xml|txt|xsl)$">
 Header set Cache-Control "max-age=31536050"
 </FilesMatch>
@@ -6,3 +8,18 @@ Header set Cache-Control "max-age=31536050"
     Header append Vary: Accept-Encoding
   </FilesMatch>
 </IfModule>
+RewriteCond %{HTTP_HOST} ^luxtrim.com$
+RewriteRule ^/?$ "http\:\/\/www\.luxtrim\.com\/" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^luxtrim.com$
+RewriteRule ^about\.php$ "http\:\/\/www\.luxtrim\.com\/about\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^luxtrim.com$
+RewriteRule ^contact\.php$ "http\:\/\/www\.luxtrim\.com\/contact\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^luxtrim.com$
+RewriteRule ^gallery\.php$ "http\:\/\/www\.luxtrim\.com\/gallery\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^luxtrim.com$
+RewriteRule ^polyurethane\-moulding\-material\.php$ "http\:\/\/www\.luxtrim\.com\/polyurethane\-moulding\-material\.php" [R=301,L]
+
