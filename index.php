@@ -49,30 +49,27 @@
                 </section>
             </div>
 
-            <header class="special container wrapper">
-                <table>
-                    <tr>
-                        <td width="50%">
-                            <div style="text-align:left">
-                                <h3>NEWSLETTER SIGNUP</h3>
-                                <input type="text" name="FirstName" value="Email Address">
-                                <br>
-                                <div class="filled-box" style="max-width:300px;margin-top:18px;">
-                                    <a href="about.php" class="button fit scrolly">SUBSCRIBE</a>
-                                </div>
-                            </div>
-                        </td>
-                        <td>
-                            <h3>CONTACT</h3>
-                            <p>We service GTA locations including Toronto,
-                                <br>Brampton, Vaughan, Mississauga, etc.</p>
-                            <div class="filled-box center" style="max-width:300px;">
-                                <a href="contact.php" class="button">GET IN TOUCH</a>
-                            </div>
-                        </td>
-                    </tr>
-                </table>
-            </header>
+            <div class="special container wrapper">
+                <div class="box_container">
+                    <div class="box_left">
+                        <h3>NEWSLETTER SIGNUP</h3>
+                        <input type="text" name="FirstName" value="Email Address">
+                        <br>
+                        <div class="filled-box" style="max-width:300px;margin-top:18px;">
+                            <a href="about.php" class="button fit scrolly">SUBSCRIBE</a>
+                        </div>
+                    </div>
+                    <div class="box_right" style="text-align:center">
+                        <h3>CONTACT</h3>
+                        <p>We service GTA locations including Toronto,
+                            <br>Brampton, Vaughan, Mississauga, etc.</p>
+                        <div class="filled-box center" style="max-width:300px;">
+                            <a href="contact.php" class="button">GET IN TOUCH</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
         </article>
     </div>
     <?php include 'shared/footer.php';?>

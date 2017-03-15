@@ -20,6 +20,17 @@
 .buttons {
     padding:0
 }
+.box_container {
+    padding-bottom:15em;
+}
+.box_left {
+    width:40%;
+    float:left;
+}
+.box_right {
+    width:40%;
+    float:right;
+}
 
 /* Basic */
 body {
@@ -1295,6 +1306,18 @@ input[type="reset"].small,
 /* Mobile */
 
 @media screen and (max-width: 736px) {
+    .box_container {
+        padding-bottom: 20em;
+    }
+    .box_left {
+        width:90%;
+    }
+    .box_right {
+        padding-top:2em;
+        width:100%;
+    }
+
+
     /* Basic */
 
     body {
@@ -1455,7 +1478,6 @@ input[type="reset"].small,
 }
 @media screen and (max-width: 400px) {
     /* Basic */
-
     body {
         min-width: 300px;
     }
