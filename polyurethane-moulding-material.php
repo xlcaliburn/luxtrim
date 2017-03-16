@@ -22,7 +22,7 @@
         <div style="height:6em"></div>
         <!-- Main -->
         <article id="main" class="contact">
-            <section style="width:75%" class="container center">
+            <section class="container center">
                 <h1>OUR MATERIAL</h1>
                 <h4>We spent months travelling and testing in search of the best material for our mouldings. <br>
                             After experimenting with different woods, plaster, MDF and more, we discovered that<br>
@@ -48,7 +48,7 @@
 
                 <img src="assets/images/infographic.png" class="image">
             </section>
-            <section style="width:60%;padding:1.5em;margin-top:1.5em;" class="container center">
+            <section style="margin-top:1.5em;" class="container center">
                 <p>
                     Historically, mouldings have primarily come in three types of material - Wood, Plaster and MDF.
                     But with recent research and innovation, carpenters are discovering that polymer-based materials can provide structural benefits

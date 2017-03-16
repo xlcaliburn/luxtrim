@@ -12,6 +12,7 @@
 </head>
 
 <body class="index">
+
     <div id="page-wrapper">
         <!-- Header -->
         <?php include 'shared/header.php';?>

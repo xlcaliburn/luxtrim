@@ -14,14 +14,14 @@
         <div style="height:6em"></div>
         <!-- Main -->
         <article id="main" class="contact">
-            <section style="width:75%" class="container center">
+            <section class="container center">
                 <h1>OUR MISSION</h1>
                 <h3>Our Mission is to revolutionize moulding design and <br>installation by fixing traditional problems experienced by clients</h3>
                 <br>
                 <div style="text-align:left">
                     <table>
                         <tr>
-                            <td width=15%><img src="assets/images/1.png" width="80px" class="image-points">
+                            <td width=15%><img src="assets/images/1.png" class="image-points">
                             </td>
                             <td>
                                 <h3>Use the best, most customizable materials.</h3>
@@ -30,7 +30,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td width=15%><img src="assets/images/2.png" width="80px" class="image-points">
+                            <td width=15%><img src="assets/images/2.png" class="image-points">
                             </td>
                             <td>
                                 <h3>Provide the most efficient service.</h3>
@@ -40,7 +40,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td width=15%><img src="assets/images/3.png" width="80px" class="image-points">
+                            <td width=15%><img src="assets/images/3.png" class="image-points">
                             </td>
                             <td>
                                 <h3>Free design consultation.</h3>
