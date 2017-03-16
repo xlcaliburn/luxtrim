@@ -17,8 +17,8 @@
 			<div style="height:6em"></div>
             <!-- Main -->
             <article id="main" class="contact">
-                <section class="wrapper style4 container">
-					<div style="max-width:75%" class="center">
+                <section class="container center">
+					<div>
                     <h1>CONTACT US</h1>
 						<h3 style="text-align:left;width:40%;display:inline-block">
 							Lux Trim<br>
@@ -40,7 +40,7 @@
 					<div style="height:50px"></div>
 
 					<!-- Content -->
-					<div class="content center" style="max-width:50%">
+					<div class="content center" style="max-width:75%">
 						<form name="contactform" method="post" action="send_form_email.php">
 							<table>
 								<tr><td><input type="text" name="name" placeholder="*Name" /></td></tr>

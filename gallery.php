@@ -18,7 +18,7 @@
         <div style="height:6em"></div>
 
         <article id="main">
-            <section class="wrapper style4 special container 100%">
+            <section class="container center">
                 <h1>GALLERY</h1>
             </section>
             <div id="grid-gallery" class="grid-gallery">
@@ -185,7 +185,7 @@
         new CBPGridGallery(document.getElementById('grid-gallery'));
     </script>
     <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-    <script src="assets/js/main.js"></script>
+
 
 
 </body>

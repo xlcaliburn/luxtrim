@@ -25,11 +25,13 @@
         <article id="main">
             <div class="container center" style="margin-bottom:1.5em">
                 <h1>BEAUTIFY YOUR HOME!</h1>
-                <h3><strong>Lux Trim</strong> is committed to furnishing your home with custom <br>
-                    moulding and decor to perfectly match your style. We pride<br>
-                     ourselves in offering top quality materials, tailored design, <br>
+                <div id="home_body">
+                <h3><strong>Lux Trim</strong> is committed to furnishing your home with custom
+                    moulding and decor to perfectly match your style. We pride
+                     ourselves in offering top quality materials, tailored design,
                      and the cleanest and most efficient service you'll find.
                     </h3>
+                </div>
                 <br>
                 <div class="filled-box center" style="max-width:300px;">
                     <a href="about.php" class="button">Our Mission</a>
@@ -50,7 +52,7 @@
                 </section>
             </div>
 
-            <div class="special container wrapper">
+            <div class="special wrapper">
                 <div class="box_container">
                     <div class="box_left">
                         <h3>NEWSLETTER SIGNUP</h3>

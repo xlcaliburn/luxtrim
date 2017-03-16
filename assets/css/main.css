@@ -26,7 +26,7 @@
     padding-bottom:15em;
 }
 .box_left {
-    width:40%;
+    width:60%;
     float:left;
 }
 .box_right {
@@ -39,6 +39,12 @@
 
 #menu-icon {
 	display:none;
+}
+
+#main_body {
+    width:60%;
+    text-align:center;
+    margin:0 auto;
 }
 
 a:hover#menu-icon {
@@ -1016,6 +1022,11 @@ input[type="reset"].small,
     }
     #menu-icon {
         display:inline-block;
+    }
+    #main_body {
+        text-align:center;
+        margin:0 auto;
+        width:100%;
     }
 
 
