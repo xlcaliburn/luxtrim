@@ -25,7 +25,7 @@
         <article id="main">
             <div class="container center" style="margin-bottom:1.5em">
                 <h1>BEAUTIFY YOUR HOME!</h1>
-                <div id="home_body">
+                <div class="main_body">
                 <h3><strong>Lux Trim</strong> is committed to furnishing your home with custom
                     moulding and decor to perfectly match your style. We pride
                      ourselves in offering top quality materials, tailored design,
@@ -42,11 +42,9 @@
                 <section class="wrapper style2 container special-alt center" style="background-color:black;margin-bottom:5em;">
                     <div>
                         <h2 style="color:white">BEAUTIFUL DESIGNS</h2>
-                        <div style="max-width:50px; margin:0 auto; display: table">
-                            <ul class="buttons">
-                                <li><a href="gallery.php" class="button fit">View Gallery</a>
-                                </li>
-                            </ul>
+                        <div style="max-width:50px; margin:0 auto; display: table; border:white 2px solid">
+                            <a href="gallery.php" class="button fit">View Gallery</a>
+                        </div>
                         </footer>
                     </div>
                 </section>

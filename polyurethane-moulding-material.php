@@ -24,9 +24,11 @@
         <article id="main" class="contact">
             <section class="container center">
                 <h1>OUR MATERIAL</h1>
-                <h4>We spent months travelling and testing in search of the best material for our mouldings. <br>
-                            After experimenting with different woods, plaster, MDF and more, we discovered that<br>
+                <div class="main_body">
+                <h4>We spent months travelling and testing in search of the best material for our mouldings.
+                            After experimenting with different woods, plaster, MDF and more, we discovered that
                             High Density Polyurethane (PU) outperforms conventional materials on many metrics.</h4>
+                </div>
                 <br>
                 <hr>
                 <br>

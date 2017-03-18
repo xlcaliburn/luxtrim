@@ -27,7 +27,7 @@
 							F:(905)915-0466
 						</h3>
 
-						<h3 style="text-align:right;width:40%;display:inline-block">
+						<h3 style="text-align:right;width:55%;display:inline-block">
 							<span class="bold" style="color:#dcc484"><a href="http://www.improvecanada.com">Improve Canada</a></span><br>
 							Unit #16-18<br>
 							7250 Keele St.<br>

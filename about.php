@@ -16,11 +16,13 @@
         <article id="main" class="contact">
             <section class="container center">
                 <h1>OUR MISSION</h1>
-                <h3>Our Mission is to revolutionize moulding design and <br>installation by fixing traditional problems experienced by clients</h3>
+                <div class="main_body">
+                    <h3>Our Mission is to revolutionize moulding design and installation by fixing traditional problems experienced by clients</h3>
+                </div>
                 <br>
                 <div style="text-align:left">
                     <table>
-                        <tr>
+                        <tr style="vertical-align:top;">
                             <td width=15%><img src="assets/images/1.png" class="image-points">
                             </td>
                             <td>
@@ -29,7 +31,7 @@
                                 </p>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="vertical-align:top;">
                             <td width=15%><img src="assets/images/2.png" class="image-points">
                             </td>
                             <td>
@@ -39,7 +41,7 @@
                                 </p>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="vertical-align:top;">
                             <td width=15%><img src="assets/images/3.png" class="image-points">
                             </td>
                             <td>
