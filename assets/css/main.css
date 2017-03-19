@@ -1041,9 +1041,6 @@ input[type="reset"].small,
         font-size: 1em;
         letter-spacing: 0.025em;
     }
-    p {
-        text-align: justify;
-    }
 
     header.major {
         padding-bottom: 0;
@@ -1214,9 +1211,6 @@ input[type="reset"].small,
     h3 {
         font-size: 1em;
         letter-spacing: 0.025em;
-    }
-    p {
-        text-align: justify;
     }
     /* Section/Article */
     .tiny_hide {
